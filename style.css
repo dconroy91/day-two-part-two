@@ -1,21 +1,28 @@
-/* .interest { 
-    border: 1px dotted crimson;
-    padding: 1em;
-    margin: 1em;
-    flex-basis: 16%;
-    text-align: center;
+.main-representative {
+    background-image:url(https://media1.popsugar-assets.com/files/thumbor/gBOlI6Dej2uYqCtFSxXXcv8dQvw/191x0:1752x1561/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2020/03/30/970/n/1922153/d1d44b785e8270168914c1.17989212_/i/tiger-king-joe-exotic-eyeliner.jpg) ;
+    background-size: 100%;
+    color: rgb(173, 33, 8);
+    font-family: 'Courier New', Courier, monospace;
 }
 
-.bio__interests {
+.rep-name {
     display: flex;
+    font-size: larger;
+    font-weight: 300;
+    background-color: rgb(233, 224, 97);
+    border: 1px solid blue;
+    flex-basis: 20%;
+    flex-wrap: wrap;
     flex-flow: row wrap;
-    justify-content: space-evenly;
-    border: 1px solid black;
+    margin: 0em 0em;
+    justify-content: left;
+    width: 15%;
+    color: rgb(255, 0, 0);
+}
 
-} */
 
+ /* seperate exercise */
 
-/* seperate exercise */
 .pageHeader {text-align: center;
 
 }
